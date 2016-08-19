@@ -1,0 +1,36 @@
+body {
+  font-family: GillSans, HelveticaNeue, Helvetica, sans-serif;
+  background: #4f646b;
+  color: #333;
+}
+
+h1, h2, h3, h5 {
+  font-weight: 600;
+}
+
+h4 {
+  font-weight: 400;
+  font-size: 20px;
+}
+
+p {
+  font-size: 18px;
+}
+
+.education-group {
+  line-height: 70%;
+}
+
+.about-photo {
+	max-height: 200px;
+	margin: auto;
+	margin-bottom: 24px;
+	border-radius: 8%;
+}
+
+.container {
+  max-width: 700px;
+  margin-top: 20px;
+}
+
+
