@@ -21,6 +21,11 @@ p {
   line-height: 70%;
 }
 
+.about-section h4 {
+  margin-top: -2px;
+  font-weight: 600;
+}
+
 .about-photo {
 	max-height: 200px;
 	margin: auto;
@@ -28,8 +33,12 @@ p {
 	border-radius: 8%;
 }
 
+.projects-section p {
+  margin-top: -12px;
+}
+
 .container {
-  max-width: 700px;
+  max-width: 800px;
   margin-top: 20px;
 }
 
