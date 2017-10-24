@@ -28,6 +28,20 @@ p {
 
 .about-section .list-unstyled {
   margin-top: 20px;
+  margin-bottom: 18px;
+}
+
+.about-section a {
+    margin-right: 8px;
+}
+
+.about-section a:hover, 
+.about-section a:focus {
+    text-decoration: none;
+}
+
+.sr-only {
+    display: none;
 }
 
 .about-photo {
@@ -52,6 +66,11 @@ p {
 .projects-section img {
   margin: 5px auto 20px auto;
   max-width: 200px;
+}
+
+.projects-section img.add-border {
+    border: 1px solid #ccc;
+    padding: 2px;
 }
 
 .container {
